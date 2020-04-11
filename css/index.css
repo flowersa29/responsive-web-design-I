@@ -170,3 +170,9 @@ address {
     }
 }
 
+@media(max-width:200){
+    body{
+        background-color: beige;
+    }
+}
+
